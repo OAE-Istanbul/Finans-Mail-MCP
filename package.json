@@ -1,0 +1,13 @@
+{
+  "name": "outlook-mcp-server",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Outlook/Microsoft Graph MCP sunucusu - tek dosya derlenmis surum",
+  "engines": {
+    "node": "22.x"
+  },
+  "scripts": {
+    "start": "node server.mjs"
+  }
+}
